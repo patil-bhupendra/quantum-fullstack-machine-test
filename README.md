@@ -39,7 +39,6 @@ JWT_SECRET=your_jwt_secret
 
 ```
 
-```
 ### Frontend
 cd client
 npm install
