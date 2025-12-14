@@ -23,7 +23,6 @@ server/ - Node.js backend
 
 ```
 
-
 ## Setup Instructions
 
 ### Backend
@@ -43,11 +42,13 @@ JWT_SECRET=your_jwt_secret
 ```
 
 ### Frontend
+```
 cd client
 npm install
 npm run dev
 
 The frontend will run on:
+
 http://localhost:5173
 
 ```
