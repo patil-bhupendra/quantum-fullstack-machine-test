@@ -17,8 +17,11 @@ This project is a full stack authentication system built as part of the machine 
 - Authentication: JSON Web Token (JWT)
 
 ## Project Structure
+```
 client/ - React frontend
 server/ - Node.js backend
+
+```
 
 
 ## Setup Instructions
