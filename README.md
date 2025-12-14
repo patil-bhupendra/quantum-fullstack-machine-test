@@ -17,12 +17,8 @@ This project is a full stack authentication system built as part of the machine 
 - Authentication: JSON Web Token (JWT)
 
 ## Project Structure
-
-```
 client/ - React frontend
 server/ - Node.js backend
-
-```
 
 
 ## Setup Instructions
@@ -34,14 +30,15 @@ npm install
 npm run dev
 
 Create a .env file in the server folder with:
-
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 
-
-### Frontend
-```bash
+Frontend
 cd client
 npm install
 npm run dev
+
+The frontend will run on:
+http://localhost:5173
+
