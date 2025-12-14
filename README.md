@@ -38,3 +38,9 @@ Create a .env file in the server folder with:
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
+
+### Frontend
+```bash
+cd client
+npm install
+npm run dev
