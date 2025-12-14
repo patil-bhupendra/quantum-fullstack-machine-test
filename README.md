@@ -23,3 +23,12 @@ client/ - React frontend
 server/ - Node.js backend
 
 ```
+
+
+## Setup Instructions
+
+### Backend
+```bash
+cd server
+npm install
+npm run dev
